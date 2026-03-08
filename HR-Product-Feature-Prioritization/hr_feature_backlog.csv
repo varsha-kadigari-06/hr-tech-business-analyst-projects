@@ -1,0 +1,31 @@
+﻿FeatureID,FeatureName,Impact,Effort,EmployeeDemand,StrategicValue
+1,Pulse Survey Tool,9,4,8,9
+2,Manager Performance Dashboard,8,6,7,8
+3,Learning Recommendation Engine,8,7,6,9
+4,Employee Wellness Tracker,6,5,6,7
+5,Internal Job Marketplace,9,8,8,9
+6,HR Chatbot Assistant,8,5,9,8
+7,Recognition & Rewards System,7,4,8,7
+8,AI Resume Screening,9,8,7,9
+9,Interview Scheduling Automation,7,3,8,7
+10,Candidate Experience Survey,6,2,6,6
+11,Career Pathing Tool,8,7,7,9
+12,Employee Feedback Portal,7,5,7,8
+13,Remote Work Analytics,6,5,6,7
+14,Diversity & Inclusion Dashboard,8,6,7,9
+15,Workforce Planning Forecast,9,9,6,9
+16,Training Effectiveness Analytics,7,6,7,8
+17,Attrition Prediction Model,9,8,7,9
+18,Skills Gap Analysis Tool,8,7,7,9
+19,Employee Sentiment Analysis,8,6,8,8
+20,Performance Review Automation,7,6,7,8
+21,HR Self-Service Portal,8,5,9,8
+22,Leave Management System,7,4,8,7
+23,Onboarding Task Automation,7,5,8,7
+24,Internal Mentorship Platform,6,5,6,7
+25,Employee Goal Tracking,7,5,7,8
+26,Compensation Benchmark Tool,8,7,6,9
+27,Workforce Engagement Heatmap,8,6,7,8
+28,HR Policy Knowledge Base,6,3,7,6
+29,Employee Mobile App,8,7,8,8
+30,Learning Progress Dashboard,7,5,7,7
